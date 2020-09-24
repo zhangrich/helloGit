@@ -7,5 +7,6 @@ public class HelloGit {
         System.out.println("张守富你是最棒的！");
         System.out.println("主干在第8行添加");
         System.out.println("测试01");
+        System.out.println("测试02");
     }
 }
